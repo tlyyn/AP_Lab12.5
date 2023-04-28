@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Users\linta\source\repos\AP_Lab12.5\UnitTest1\UnitTest1.cpp(7,12): error C3861: 'infix_to_postfix': identifier not found
+C:\Users\linta\source\repos\AP_Lab12.5\UnitTest1\UnitTest1.cpp(7,5): error C3861: 'assert': identifier not found
+C:\Users\linta\source\repos\AP_Lab12.5\UnitTest1\UnitTest1.cpp(8,12): error C3861: 'infix_to_postfix': identifier not found
+C:\Users\linta\source\repos\AP_Lab12.5\UnitTest1\UnitTest1.cpp(8,5): error C3861: 'assert': identifier not found
